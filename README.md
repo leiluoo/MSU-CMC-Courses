@@ -1,5 +1,5 @@
 # MSU-CMC-Courses
-##Algorithm and Data Structure 2
+## Algorithm and Data Structure 2
 Мельников Борис Феликсович
 
 [algorithmAndDataStructure2](https://github.com/AllenOuyang/algorithmAndDataStructure2)
