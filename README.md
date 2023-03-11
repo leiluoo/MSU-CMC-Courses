@@ -36,3 +36,8 @@
 Ингтем Женни Гастоновна
 
 [Matheese](https://github.com/AllenOuyang/Matheese)
+
+## Machine Learnig & Predictive Analysis
+Назоров Л.В.
+
+[MachineLearnigAndPredictiveAnalysis](https://github.com/AllenOuyang/MachineLearnigAndPredictiveAnalysis)
