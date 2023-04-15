@@ -22,6 +22,11 @@
 ## Object-Oriented Programming
 Абрамян Михаил Эдуардович
 
+## Computational Method of Linear Algebra
+Павел Александрович Точилин
+
+[CMLA](https://github.com/leiluoo/CMLA)
+
 ## Practicum (numerical method)
 Ингтем Женни Гастоновна
 
